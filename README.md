@@ -1,7 +1,7 @@
 
 
 
-# VectorShift Frontend & Backend Technical Assessment
+# VectorShift Technical Assessment – Pipeline Builder
 
 This repository contains my submission for the **VectorShift Frontend Technical Assessment**.  
 The project implements a node-based pipeline editor using **React + ReactFlow** on the frontend and a **FastAPI** backend for pipeline analysis.
